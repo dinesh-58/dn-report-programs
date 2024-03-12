@@ -3,12 +3,12 @@ using Ques8;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal partial class Program
     {
         public static void Main()
         {
             // Ques8Demo.Run();
-            Ques12Demo();
+            Ques14Demo();
         }
         public static void Ques1Demo()
         {
